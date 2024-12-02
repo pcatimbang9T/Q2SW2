@@ -1,0 +1,33 @@
+img {
+	width:70px;
+	animation: bounce;
+		}
+body {
+	background-color: #D4F6FF;
+}
+
+		*{
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			text-align: center;
+		}
+		.footer{
+			bottom: 0;
+			position: fixed;
+			background-color: skyblue;
+			width: 100%;
+			padding: 10px;
+		}
+		.container{
+			padding: 20px;
+        	margin: 20px;
+
+        h1 {
+        	text-align: center; "frozen.png"
+
+ 		img {
+            width: 200px; 
+            height: auto; 
+        }
+
